@@ -1,0 +1,15 @@
+pandas==2.0.3
+numpy>=1.26.0
+xgboost==2.0.2
+lightgbm==3.3.2
+catboost==1.2.2
+scikit-learn==1.2.2
+optuna==3.5.0
+optuna-dashboard>=0.12.0
+seaborn>=0.13.0
+numba>=0.58.1
+datasets==2.1.0
+tokenizers==0.15.0
+transformers==4.36.0
+cmaes==0.10.0
+kaggle
